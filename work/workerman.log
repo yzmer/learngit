@@ -1,0 +1,60 @@
+2018-04-04 02:59:50 pid:1 Error: Class 'Timer' not found in E:\learngit\work\tcp_test.php:20
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 E:\learngit\work\Workerman\Worker.php(2115): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 E:\learngit\work\Workerman\Worker.php(1189): Workerman\Worker->run()
+#3 E:\learngit\work\Workerman\Worker.php(1132): Workerman\Worker::forkWorkersForWindows()
+#4 E:\learngit\work\Workerman\Worker.php(466): Workerman\Worker::forkWorkers()
+#5 E:\learngit\work\tcp_test.php(27): Workerman\Worker::runAll()
+#6 {main}
+2018-04-04 02:59:51 pid:1 Worker process terminated
+2018-04-04 02:59:53 pid:1 Error: Class 'Timer' not found in E:\learngit\work\tcp_test.php:20
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 E:\learngit\work\Workerman\Worker.php(2115): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 E:\learngit\work\Workerman\Worker.php(1189): Workerman\Worker->run()
+#3 E:\learngit\work\Workerman\Worker.php(1132): Workerman\Worker::forkWorkersForWindows()
+#4 E:\learngit\work\Workerman\Worker.php(466): Workerman\Worker::forkWorkers()
+#5 E:\learngit\work\tcp_test.php(27): Workerman\Worker::runAll()
+#6 {main}
+2018-04-04 02:59:54 pid:1 Worker process terminated
+2018-04-04 03:00:04 pid:1 Error: Class 'Timer' not found in E:\learngit\work\tcp_test.php:20
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 E:\learngit\work\Workerman\Worker.php(2115): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 E:\learngit\work\Workerman\Worker.php(1189): Workerman\Worker->run()
+#3 E:\learngit\work\Workerman\Worker.php(1132): Workerman\Worker::forkWorkersForWindows()
+#4 E:\learngit\work\Workerman\Worker.php(466): Workerman\Worker::forkWorkers()
+#5 E:\learngit\work\tcp_test.php(27): Workerman\Worker::runAll()
+#6 {main}
+2018-04-04 03:00:05 pid:1 Worker process terminated
+2018-04-04 03:00:23 pid:1 Error: Class 'Timer' not found in E:\learngit\work\tcp_test.php:20
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 E:\learngit\work\Workerman\Worker.php(2115): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 E:\learngit\work\Workerman\Worker.php(1189): Workerman\Worker->run()
+#3 E:\learngit\work\Workerman\Worker.php(1132): Workerman\Worker::forkWorkersForWindows()
+#4 E:\learngit\work\Workerman\Worker.php(466): Workerman\Worker::forkWorkers()
+#5 E:\learngit\work\tcp_test.php(27): Workerman\Worker::runAll()
+#6 {main}
+2018-04-04 03:00:24 pid:1 Worker process terminated
+2018-04-04 03:00:30 pid:1 Error: Class 'Timer' not found in E:\learngit\work\tcp_test.php:20
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 E:\learngit\work\Workerman\Worker.php(2115): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 E:\learngit\work\Workerman\Worker.php(1189): Workerman\Worker->run()
+#3 E:\learngit\work\Workerman\Worker.php(1132): Workerman\Worker::forkWorkersForWindows()
+#4 E:\learngit\work\Workerman\Worker.php(466): Workerman\Worker::forkWorkers()
+#5 E:\learngit\work\tcp_test.php(27): Workerman\Worker::runAll()
+#6 {main}
+2018-04-04 03:00:31 pid:1 Worker process terminated
+2018-04-04 03:00:35 pid:1 Error: Class 'Timer' not found in E:\learngit\work\tcp_test.php:20
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 E:\learngit\work\Workerman\Worker.php(2115): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 E:\learngit\work\Workerman\Worker.php(1189): Workerman\Worker->run()
+#3 E:\learngit\work\Workerman\Worker.php(1132): Workerman\Worker::forkWorkersForWindows()
+#4 E:\learngit\work\Workerman\Worker.php(466): Workerman\Worker::forkWorkers()
+#5 E:\learngit\work\tcp_test.php(27): Workerman\Worker::runAll()
+#6 {main}
+2018-04-04 03:00:36 pid:1 Worker process terminated
